@@ -8,7 +8,7 @@ Request a certificate with arbitrary SAN, authenticate via PKINIT, and extract t
 
 ## Demo
 
-https://github.com/RayRRT/ESC1-unPAC/blob/main/esc1unpac.mp4
+<video src="esc1unpac.mp4" controls width="100%"></video>
 
 
 ---
