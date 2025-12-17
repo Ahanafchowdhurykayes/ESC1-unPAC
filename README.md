@@ -1,8 +1,6 @@
 # ESC1-unPAC
 
-> Complete ADCS ESC1 exploitation chain in a single BOF: **ESC1 → PKINIT → UnPAC-the-hash**
-
-Request a certificate with arbitrary SAN, authenticate via PKINIT, and extract the NT hash - all in one command.
+Request a certificate with arbitrary SAN (and SID) , authenticate via PKINIT, and extract the NT hash
 
 ---
 
