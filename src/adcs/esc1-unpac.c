@@ -1,13 +1,12 @@
 ﻿/*
- * SpicyAD BOF - Complete ADCS ESC1 Attack Chain
+ * ESC1-unPAC BOF - Complete ADCS ESC1 Attack Chain
  * 
  * Complete attack chain in a single BOF:
  * 1. ESC1 - Request certificate with arbitrary SAN (Subject Alternative Name)
  * 2. PKINIT - Authenticate to KDC using the certificate
  * 3. UnPAC-the-hash - Extract NT hash from PAC credentials
  *
- * Author: SpicyAD
- * Merged from: esc1_full.c + esc1_unpac.c
+ * Author: RayRT
  */
 
 
@@ -4892,3 +4891,4 @@ int main(int argc, char* argv[]) {
     return 0;
 }
 #endif
+
