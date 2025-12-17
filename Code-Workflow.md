@@ -1,10 +1,10 @@
 
 # ESC1-unPAC
 
-Active Directory Certificate Services (ADCS) ESC1 exploitation BOF for Havoc C2.
+Active Directory Certificate Services (ADCS) exploitation BOF for Havoc C2.
 
-**Complete attack chain in a single BOF:**
-1. **ESC1** - Request certificate with arbitrary SAN (Subject Alternative Name)
+**Complete attack chain:**
+1. **ESC1** - Request certificate with arbitrary SAN (Subject Alternative Name), and SID to bypass strong mapping.
 2. **PKINIT** - Authenticate to KDC using the certificate
 3. **UnPAC-the-hash** - Extract NT hash from PAC credentials
 
