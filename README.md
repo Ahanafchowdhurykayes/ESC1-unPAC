@@ -1,6 +1,6 @@
 # ESC1-unPAC BOF
 
-Request a certificate with arbitrary SAN (and SID) , authenticate via PKINIT, and extract the NT hash
+Request a certificate with arbitrary SAN (and SID to bypass [KB5014754](https://support.microsoft.com/en-us/topic/kb5014754-certificate-based-authentication-changes-on-windows-domain-controllers-ad2c23b0-15d8-4340-a468-4d4f3b188f16) AKA Strong Mapping), authenticate via PKINIT, and extract the NT hash
 
 ---
 
