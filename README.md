@@ -8,11 +8,14 @@ Request a certificate with arbitrary SAN, authenticate via PKINIT, and extract t
 
 ## Demo
 
-https://github.com/user-attachments/assets/f81fed80-ce4f-46f6-807a-34ed93ecaf0f
+
+https://github.com/user-attachments/assets/806cfbed-2d64-4256-bc2b-0f93bc6c8e08
+
+
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---------|-------------|
@@ -26,7 +29,7 @@ https://github.com/user-attachments/assets/f81fed80-ce4f-46f6-807a-34ed93ecaf0f
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 ### Vulnerable Template (ESC1)
 - `ENROLLEE_SUPPLIES_SUBJECT` enabled
