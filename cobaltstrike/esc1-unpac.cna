@@ -23,7 +23,7 @@ alias esc1-unpac {
 
     if ($ca eq "" || $template eq "" || $upn eq "") {
         berror($bid, "Usage: esc1-unpac <CA> <Template> <UPN> [KDC] [nosid]");
-        berror($bid, "Example: esc1-unpac EVILCA1.evilcorp.net\\\\evilcorp-EVILCA1-CA ESC1Template administrator\@evilcorp.net");
+        berror($bid, "Example: esc1-unpac EVILCA1.evilcorp.net\\evilcorp-EVILCA1-CA ESC1Template administrator\@evilcorp.net");
         return;
     }
 
