@@ -53,7 +53,7 @@ esc1-unpac <CA> <Template> <UPN> [KDC]
 
 ### Example
 ```
-esc1-unpac EVILCA1.evilcorp.net\\evilcorp-EVILCA1-CA ESC1Template administrator@evilcorp.net
+esc1-unpac EVILCA1.evilcorp.net\evilcorp-EVILCA1-CA ESC1Template administrator@evilcorp.net
 ```
 
 ## Output
