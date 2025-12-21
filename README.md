@@ -11,10 +11,7 @@ Request a certificate with arbitrary SAN (and SID to bypass [KB5014754](https://
 https://github.com/user-attachments/assets/806cfbed-2d64-4256-bc2b-0f93bc6c8e08
 
 ### CS:
-
-htt
-
-https://github.com/user-attachments/assets/ea832b54-c730-4362-b8e7-a3ee7499ee17
+https://github.com/user-attachments/assets/9ecfdfbc-4300-482e-9229-69d7fcd6dcd8
 
 ---
 
